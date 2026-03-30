@@ -5,7 +5,7 @@ int main(){
 	int i;
 	for(i=0;i<5;i++){
 	
-	vitesse=vitesse+5;
+	vitesse=vitesse-2;
 
 	}
 	
